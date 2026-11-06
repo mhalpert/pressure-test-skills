@@ -1,0 +1,13 @@
+{
+  "name": "pressure-test-skills",
+  "owner": {
+    "name": "Mike Halpert"
+  },
+  "plugins": [
+    {
+      "name": "pressure-test",
+      "source": "./",
+      "description": "grill-me, board-of-experts and red-team: interview, panel review and defect-hunting skills for plans, products and decisions."
+    }
+  ]
+}

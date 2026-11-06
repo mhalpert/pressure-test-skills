@@ -1,0 +1,18 @@
+{
+  "name": "pressure-test",
+  "version": "0.1.0",
+  "description": "Three skills for pressure-testing work: grill-me aligns you with Claude before you start, board-of-experts judges a deliverable or decision, and red-team finds what is broken.",
+  "author": {
+    "name": "Mike Halpert"
+  },
+  "homepage": "https://github.com/mhalpert/pressure-test-skills",
+  "repository": "https://github.com/mhalpert/pressure-test-skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "red-team",
+    "review",
+    "interview",
+    "decision-making"
+  ]
+}
